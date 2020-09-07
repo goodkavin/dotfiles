@@ -13,3 +13,4 @@ set ruler                      " Shows the current line number at the bottom.
 set tabstop=4
 set shiftwidth=4
 set noexpandtab
+set visualbell                 " Disable beep
